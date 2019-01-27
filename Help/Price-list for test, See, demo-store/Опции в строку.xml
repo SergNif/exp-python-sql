@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>usergio</Author>
+  <LastAuthor>Sergio</LastAuthor>
+  <Created>2016-11-12T15:24:38Z</Created>
+  <LastSaved>2016-11-13T16:53:15Z</LastSaved>
+  <Company>http://usdrug.ru/</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12396</WindowHeight>
+  <WindowWidth>23256</WindowWidth>
+  <WindowTopX>180</WindowTopX>
+  <WindowTopY>456</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="ERC price">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="8" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="13.950000000000001">
+   <Column ss:AutoFitWidth="0" ss:Width="99.6"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="156.6"/>
+   <Column ss:AutoFitWidth="0" ss:Width="99.6" ss:Span="3"/>
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="142.80000000000001"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="156"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="154.19999999999999"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="81.599999999999994"
+    ss:Span="2"/>
+   <Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="129.6"/>
+   <Column ss:AutoFitWidth="0" ss:Width="124.2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="108.6"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Main SKU</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">SKU1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Младшая категория</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Род.Категория</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Цена</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Фото в image/catalog/temp</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Add to price1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Значения опции</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Количество</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Weight1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Points1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Описание</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Фото в опциях</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Производитель</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">bak14002</Data></Cell>
+    <Cell><Data ss:Type="String">bak14002;bak14012;bak14022;</Data></Cell>
+    <Cell><Data ss:Type="String">Кот лимбургский</Data></Cell>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">cat1.jpeg</Data></Cell>
+    <Cell><Data ss:Type="String">100=;200=;300=;</Data></Cell>
+    <Cell><Data ss:Type="String">блохи;писает в ботинки;много жрет;</Data></Cell>
+    <Cell><Data ss:Type="String">10;12;14;</Data></Cell>
+    <Cell><Data ss:Type="String">2+;5+;8+;</Data></Cell>
+    <Cell><Data ss:Type="String">3+;8+;19+;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Совершенно отвратительный тип котов, встречающийся в домах порядочных граждан чаще всего. &lt;br /&gt; Страдает паталогической жадностью, поэтому много жрет и достигает к 3-м годам веса в 5 КГ. Обычно, это самое лучшее время отдать его на мыло. &lt;br /&gt; Если вы купите этого кота, пожалеете, но другого выхода у вас все равно нет потму, что вместо кота мы вам продадим вот такой экземпляр животного&lt;br /&gt; &lt;img src=&quot;http://8bits.com.ua/image/catalog/dog3.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt; &lt;br /&gt; &lt;br /&gt; Так что покупайте наших котов! &lt;br /&gt;  &lt;p&gt; С ув. старший менеджер и председатель &quot;Очистки&quot;:  Шариков Полиграф Полиграфыч.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cat2.jpg;cat3.jpg;cat4.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;Кот и Кошка&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">bak14003</Data></Cell>
+    <Cell><Data ss:Type="String">bak14003;bak14013;bak14023;</Data></Cell>
+    <Cell><Data ss:Type="String">Кот живаго</Data></Cell>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">cat2.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">100=;200=;300=;</Data></Cell>
+    <Cell><Data ss:Type="String">злой;орет по ночам;лезет в кровать;</Data></Cell>
+    <Cell><Data ss:Type="String">10;12;14;</Data></Cell>
+    <Cell><Data ss:Type="String">2+;5+;8+;</Data></Cell>
+    <Cell><Data ss:Type="String">3+;8+;19+;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Совершенно отвратительный тип котов, встречающийся в домах порядочных граждан чаще всего. &lt;br /&gt; Страдает паталогической жадностью, поэтому много жрет и достигает к 3-м годам веса в 5 КГ. Обычно, это самое лучшее время отдать его на мыло. &lt;br /&gt; Если вы купите этого кота, пожалеете, но другого выхода у вас все равно нет потму, что вместо кота мы вам продадим вот такой экземпляр животного&lt;br /&gt; &lt;img src=&quot;http://8bits.com.ua/image/catalog/dog3.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Так что покупайте наших котов!&lt;br /&gt; &lt;p&gt; С ув. старший менеджер и председатель &quot;Очистки&quot;:  Шариков Полиграф Полиграфыч.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cat3.jpg;cat5.jpg;cat1.jpeg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;Кот и Кошка&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">bak14004</Data></Cell>
+    <Cell><Data ss:Type="String">bak14004;bak14014;bak14024;</Data></Cell>
+    <Cell><Data ss:Type="String">Кот троянский</Data></Cell>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">cat3.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">100=;200=;300=;</Data></Cell>
+    <Cell><Data ss:Type="String">кусается;лазит везде;будит;</Data></Cell>
+    <Cell><Data ss:Type="String">10;12;14;</Data></Cell>
+    <Cell><Data ss:Type="String">2+;5+;8+;</Data></Cell>
+    <Cell><Data ss:Type="String">3+;8+;19+;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Совершенно отвратительный тип котов, встречающийся в домах порядочных граждан чаще всего. &lt;br /&gt; Страдает паталогической жадностью, поэтому много жрет и достигает к 3-м годам веса в 5 КГ. Обычно, это самое лучшее время отдать его на мыло. &lt;br /&gt; Если вы купите этого кота, пожалеете, но другого выхода у вас все равно нет потму, что вместо кота мы вам продадим вот такой экземпляр животного&lt;br /&gt; &lt;img src=&quot;http://8bits.com.ua/image/catalog/dog3.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Так что покупайте наших котов!&lt;br /&gt; &lt;p&gt; С ув. старший менеджер и председатель &quot;Очистки&quot;:  Шариков Полиграф Полиграфыч.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cat1.jpeg;cat6.jpg;cat5.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;Кот и Кошка&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">bak14005</Data></Cell>
+    <Cell><Data ss:Type="String">bak14005;bak14015;bak14025;</Data></Cell>
+    <Cell><Data ss:Type="String">Кот подстилка</Data></Cell>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">cat4.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">100=;200=;300=;</Data></Cell>
+    <Cell><Data ss:Type="String">писает в ботинки;орет по ночам;много жрет;</Data></Cell>
+    <Cell><Data ss:Type="String">10;12;14;</Data></Cell>
+    <Cell><Data ss:Type="String">2+;5+;8+;</Data></Cell>
+    <Cell><Data ss:Type="String">3+;8+;19+;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Совершенно отвратительный тип котов, встречающийся в домах порядочных граждан чаще всего. &lt;br /&gt; Страдает паталогической жадностью, поэтому много жрет и достигает к 3-м годам веса в 5 КГ. Обычно, это самое лучшее время отдать его на мыло. &lt;br /&gt; Если вы купите этого кота, пожалеете, но другого выхода у вас все равно нет потму, что вместо кота мы вам продадим вот такой экземпляр животного&lt;br /&gt; &lt;img src=&quot;http://8bits.com.ua/image/catalog/dog3.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Так что покупайте наших котов!&lt;br /&gt; &lt;p&gt; С ув. старший менеджер и председатель &quot;Очистки&quot;:  Шариков Полиграф Полиграфыч.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cat2.jpg;cat4.jpg;cat1.jpeg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;Кот и Кошка&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">bak14006</Data></Cell>
+    <Cell><Data ss:Type="String">bak14006;bak14016;bak14026;</Data></Cell>
+    <Cell><Data ss:Type="String">Кот шкодливый</Data></Cell>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">cat5.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">100=;200=;300=;</Data></Cell>
+    <Cell><Data ss:Type="String">жрет пальцы;не купается;очень шкодлив;</Data></Cell>
+    <Cell><Data ss:Type="String">10;12;14;</Data></Cell>
+    <Cell><Data ss:Type="String">2+;5+;8+;</Data></Cell>
+    <Cell><Data ss:Type="String">3+;8+;19+;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Совершенно отвратительный тип котов, встречающийся в домах порядочных граждан чаще всего. &lt;br /&gt; Страдает паталогической жадностью, поэтому много жрет и достигает к 3-м годам веса в 5 КГ. Обычно, это самое лучшее время отдать его на мыло. &lt;br /&gt; Если вы купите этого кота, пожалеете, но другого выхода у вас все равно нет потму, что вместо кота мы вам продадим вот такой экземпляр животного&lt;br /&gt; &lt;img src=&quot;http://8bits.com.ua/image/catalog/dog3.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Так что покупайте наших котов!&lt;br /&gt; &lt;p&gt; С ув. старший менеджер и председатель &quot;Очистки&quot;:  Шариков Полиграф Полиграфыч.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cat4.jpg;cat6.jpg;cat3.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;Кот и Кошка&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">bak14007</Data></Cell>
+    <Cell><Data ss:Type="String">bak14007;bak14017;bak14027;</Data></Cell>
+    <Cell><Data ss:Type="String">Кот сволочь</Data></Cell>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">cat6.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">100=;200=;300=;</Data></Cell>
+    <Cell><Data ss:Type="String">гадит;грызет;скачет по ночам;</Data></Cell>
+    <Cell><Data ss:Type="String">10;12;14;</Data></Cell>
+    <Cell><Data ss:Type="String">2+;5+;8+;</Data></Cell>
+    <Cell><Data ss:Type="String">3+;8+;19+;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Совершенно отвратительный тип котов, встречающийся в домах порядочных граждан чаще всего. &lt;br /&gt; Страдает паталогической жадностью, поэтому много жрет и достигает к 3-м годам веса в 5 КГ. Обычно, это самое лучшее время отдать его на мыло. &lt;br /&gt; Если вы купите этого кота, пожалеете, но другого выхода у вас все равно нет потму, что вместо кота мы вам продадим вот такой экземпляр животного&lt;br /&gt; &lt;img src=&quot;http://8bits.com.ua/image/catalog/dog3.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Так что покупайте наших котов!&lt;br /&gt; &lt;p&gt; С ув. старший менеджер и председатель &quot;Очистки&quot;:  Шариков Полиграф Полиграфыч.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cat4.jpg;cat1.jpeg;cat5.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&quot;Кот и Кошка&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">end</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">111</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>7</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>12</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

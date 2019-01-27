@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>usergio</Author>
+  <LastAuthor>usergio</LastAuthor>
+  <Created>2013-10-27T00:17:32Z</Created>
+  <LastSaved>2014-09-05T14:46:18Z</LastSaved>
+  <Company>Krokoz™</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10584</WindowHeight>
+  <WindowWidth>22020</WindowWidth>
+  <WindowTopX>384</WindowTopX>
+  <WindowTopY>84</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Гиперссылка">
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s65" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Column ss:AutoFitWidth="0" ss:Width="162"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="135"/>
+   <Column ss:AutoFitWidth="0" ss:Width="235.2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="110.4"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CANON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AC8576B005AA</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://nout.ua/catalog/show/item/15705"><Data
+      ss:Type="String">http://nout.ua/catalog/show/item/15705</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CANON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5161B036AA</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/14600</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CANON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5161B029AA</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://nout.ua/catalog/show/item/14601"><Data
+      ss:Type="String">http://nout.ua/catalog/show/item/14601</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CANON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5170B036AA/5170B085AA</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://nout.ua/catalog/show/item/14602"><Data
+      ss:Type="String">http://nout.ua/catalog/show/item/14602</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CANON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4460B100AA</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CANON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6559B022AA</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/15707</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CANON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">8037B026AA</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/14604</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CANON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">8037B023AA</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/14605</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CANON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">8596B038AA</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/15709</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CANON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">8596B031AA/AC8596B005AA</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/15710</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NIKON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VBA280K001</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/8431</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NIKON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VBA281K001</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/17110</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NIKON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VBA330K001</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/14607</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NIKON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VBA310K001</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NIKON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VBA290K001</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/14608</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NIKON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VBA360K001</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/14609</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NIKON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VBA300AE</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/15711</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NIKON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VBA301K001</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/14610</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Аппараты цифровые SLR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NIKON</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VBA230K001</Data></Cell>
+    <Cell><Data ss:Type="String">http://nout.ua/catalog/show/item/14611</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

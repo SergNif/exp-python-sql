@@ -1,0 +1,695 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>usergio</Author>
+  <LastAuthor>Sergio</LastAuthor>
+  <Created>2013-08-05T22:01:42Z</Created>
+  <LastSaved>2015-09-02T22:24:08Z</LastSaved>
+  <Company>Krokoz™</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10320</WindowHeight>
+  <WindowWidth>21732</WindowWidth>
+  <WindowTopX>672</WindowTopX>
+  <WindowTopY>396</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Гиперссылка">
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s65" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="14" ss:ExpandedRowCount="48" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Column ss:AutoFitWidth="0" ss:Width="64.8"/>
+   <Column ss:AutoFitWidth="0" ss:Width="325.2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="91.8"/>
+   <Column ss:AutoFitWidth="0" ss:Width="89.4"/>
+   <Column ss:AutoFitWidth="0" ss:Width="88.2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="80.400000000000006"/>
+   <Column ss:AutoFitWidth="0" ss:Width="51.6"/>
+   <Column ss:AutoFitWidth="0" ss:Width="69.599999999999994"/>
+   <Column ss:AutoFitWidth="0" ss:Width="71.400000000000006"/>
+   <Column ss:AutoFitWidth="0" ss:Width="77.399999999999991"/>
+   <Column ss:AutoFitWidth="0" ss:Width="63.599999999999994"/>
+   <Column ss:AutoFitWidth="0" ss:Width="91.199999999999989"/>
+   <Column ss:AutoFitWidth="0" ss:Width="117.6"/>
+   <Column ss:AutoFitWidth="0" ss:Width="159"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Цена</Data></Cell>
+    <Cell><Data ss:Type="String">Ссылка</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">Количество</Data></Cell>
+    <Cell><Data ss:Type="String">Цена</Data></Cell>
+    <Cell><Data ss:Type="String">Бонус</Data></Cell>
+    <Cell><Data ss:Type="String">Вес</Data></Cell>
+    <Cell><Data ss:Type="String">Материал</Data></Cell>
+    <Cell><Data ss:Type="String">Количество</Data></Cell>
+    <Cell><Data ss:Type="String">Цена</Data></Cell>
+    <Cell><Data ss:Type="String">Бонус</Data></Cell>
+    <Cell><Data ss:Type="String">Вес</Data></Cell>
+    <Cell><Data ss:Type="String">Категория</Data></Cell>
+    <Cell><Data ss:Type="String">Производитель</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1020lm-12ab/"><Data
+      ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1020lm-12ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">10;20;5</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+;50+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;;10+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;5</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1020lm-5ab/"><Data
+      ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1020lm-5ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">10;20;6</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+;50+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;;10+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;6</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1020lm-8ab/"><Data
+      ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1020lm-8ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">10;20;7</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;7</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1295lm-5bk/"><Data
+      ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1295lm-5bk/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый</Data></Cell>
+    <Cell><Data ss:Type="String">5;8</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;8</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1326sp-1cc/"><Data
+      ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1326sp-1cc/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;9</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;9</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1742lm-5bk/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;10</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;10</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1742lm-8bk/"><Data
+      ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a1742lm-8bk/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;11</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;11</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a2008lm-6bz/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;12</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;12</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a2008lm-8bz/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;13</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;13</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a2008sp-6bz/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;14</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;14</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a2120lm-5cc/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;15</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;15</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a2120lm-8cc/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый</Data></Cell>
+    <Cell><Data ss:Type="String">5;16</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;16</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a2171lm-6pb/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый</Data></Cell>
+    <Cell><Data ss:Type="String">5;17</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;17</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3579lm-3ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый</Data></Cell>
+    <Cell><Data ss:Type="String">5;18</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;18</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3579lm-5ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый</Data></Cell>
+    <Cell><Data ss:Type="String">5;19</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;19</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3579sp-3ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый</Data></Cell>
+    <Cell><Data ss:Type="String">5;20</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;20</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3750sp-5wh/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;20</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;21</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3777lm-3-2ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;21</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;22</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3777lm-6-2ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;22</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;23</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3823lm-3cc/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;23</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;24</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3826lm-3ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;24</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;25</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3840lm-5cc/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;25</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;26</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3850sp-3cc/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;26</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;27</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a3850sp-4cc/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;27</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;28</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a4011lm-8cc/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;28</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;29</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s62" ss:HRef="http://abo.ua/%D1%81handeliers/arte-lamp/arte-a4011sp-3cc/"><Data
+      ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a4011sp-3cc/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;29</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;30</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a4021lm-5go/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;30</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;31</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a4021lm-8go/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;31</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;32</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a4530lm-3ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;32</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;33</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a4530lm-5ab/</Data></Cell>
+    <Cell><Data ss:Type="String">Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">5;33</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;8+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;34</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a4530lm-5ss/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">10;20;7</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+;50+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;;10+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;35</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a5013lm-3bg/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">10;20;8</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+;50+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;;10+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;36</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a5013lm-5bg/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">10;20;9</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+;50+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;;10+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;37</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="String">http://abo.ua/%D1%81handeliers/arte-lamp/arte-a5013sp-1bg/</Data></Cell>
+    <Cell><Data ss:Type="String">Белый;Желтый;Голубой</Data></Cell>
+    <Cell><Data ss:Type="String">10;20;10</Data></Cell>
+    <Cell><Data ss:Type="String">100+;200+;50+</Data></Cell>
+    <Cell><Data ss:Type="String">5+;;10+</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Стекло;Хрусталь</Data></Cell>
+    <Cell><Data ss:Type="String">10;38</Data></Cell>
+    <Cell><Data ss:Type="String">0+;500+</Data></Cell>
+    <Cell><Data ss:Type="String">;10+</Data></Cell>
+    <Cell><Data ss:Type="String">;3+</Data></Cell>
+    <Cell><Data ss:Type="String">Люстры</Data></Cell>
+    <Cell><Data ss:Type="String">Сваровски</Data></Cell>
+   </Row>
+   <Row ss:Index="38" ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/11031663?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/11031663?hid=91491</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/11031621?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/11031621?hid=91491</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/10495456?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/10495456?hid=91491</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/11028898?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/11028898?hid=91491</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/11031818?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/11031818?hid=91491</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/11031637?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/11031637?hid=91491</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/10495486?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/10495486?hid=91491</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/10624078?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/10624078?hid=91491</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/11031822?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/11031822?hid=91491</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/12260185?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/12260185?hid=91491</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62" ss:HRef="https://market.yandex.ua/product/9323459?hid=91491"><Data
+      ss:Type="String">https://market.yandex.ua/product/9323459?hid=91491</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <VerticalResolution>0</VerticalResolution>
+    <NumberofCopies>0</NumberofCopies>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,1000 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>usergio</Author>
+  <LastAuthor>Sergio</LastAuthor>
+  <Created>2013-10-26T23:46:35Z</Created>
+  <LastSaved>2016-11-27T21:43:05Z</LastSaved>
+  <Company>Krokoz™</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10584</WindowHeight>
+  <WindowWidth>22020</WindowWidth>
+  <WindowTopX>384</WindowTopX>
+  <WindowTopY>84</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Гиперссылка">
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s63">
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s64">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s66" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <NumberFormat ss:Format="@"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67" ss:Parent="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="79" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Column ss:AutoFitWidth="0" ss:Width="136.79999999999998"/>
+   <Column ss:AutoFitWidth="0" ss:Width="75.600000000000009"/>
+   <Column ss:AutoFitWidth="0" ss:Width="89.4"/>
+   <Column ss:AutoFitWidth="0" ss:Width="55.2"/>
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="238.2"/>
+   <Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="100.19999999999999"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="183.6"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-DJS200E-P</Data></Cell>
+    <Cell><Data ss:Type="Number">19.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/687110.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-DJS200E-P</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-DJS200E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">19.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2 мес</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://yugcontract.ua/shop/807/687111.html"><Data
+      ss:Type="String">http://yugcontract.ua/shop/807/687111.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-DJS200E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-DJS200E-Y</Data></Cell>
+    <Cell><Data ss:Type="Number">19.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://yugcontract.ua/shop/807/1716534.html"><Data
+      ss:Type="String">http://yugcontract.ua/shop/807/1716534.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-DJS200E-Y</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HG15E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">9.85</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">12 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/661640.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HG15E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE118GU-A</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://yugcontract.ua/shop/807/1724619.html"><Data
+      ss:Type="String">http://yugcontract.ua/shop/807/1724619.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE118GU-A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE118GU-D</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1723662.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE118GU-D</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE118GU-K</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://yugcontract.ua/shop/807/1723663.html"><Data
+      ss:Type="String">http://yugcontract.ua/shop/807/1723663.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE118GU-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE118GU-P</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s67" ss:HRef="http://yugcontract.ua/shop/807/1724614.html"><Data
+      ss:Type="String">http://yugcontract.ua/shop/807/1724614.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE118GU-P</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE118GU-R</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1724615.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE118GU-R</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE118GU-S</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1724616.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE118GU-S</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE118GU-V</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1724617.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE118GU-V</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE118GU-Y</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1724618.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE118GU-Y</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE120E-R</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1716536.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE120E-R</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE125E-A</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722844.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE125E-A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE125E-D</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722845.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE125E-D</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE125E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722846.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE125E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE125E-P</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722962.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE125E-P</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE125E-R</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722847.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE125E-R</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE125E-V</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722848.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE125E-V</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE125E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722849.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE125E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE125E-Y</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722963.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE125E-Y</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE125E-Z</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722850.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE125E-Z</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE130E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">9.9499999999999993</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/636364.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE130E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE130E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">9.9499999999999993</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/661632.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE130E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE140E-A</Data></Cell>
+    <Cell><Data ss:Type="Number">14.3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE140E-A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE140E-D</Data></Cell>
+    <Cell><Data ss:Type="Number">14.3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1716720.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE140E-D</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE140E-G</Data></Cell>
+    <Cell><Data ss:Type="Number">14.3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">3 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1716721.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE140E-G</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE140E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">14.3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1716722.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE140E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE140E-R</Data></Cell>
+    <Cell><Data ss:Type="Number">14.3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1716723.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE140E-R</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE140E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">14.3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1716724.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE140E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE190E-A</Data></Cell>
+    <Cell><Data ss:Type="Number">12.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722856.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE190E-A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE190E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">12.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722857.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE190E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE190E-N</Data></Cell>
+    <Cell><Data ss:Type="Number">12.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722858.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE190E-N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE190E-R</Data></Cell>
+    <Cell><Data ss:Type="Number">12.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722859.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE190E-R</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE190E-V</Data></Cell>
+    <Cell><Data ss:Type="Number">12.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722860.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE190E-V</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE190E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">12.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722861.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE190E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE275E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">20.149999999999999</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1721802.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE275E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE290GU-K</Data></Cell>
+    <Cell><Data ss:Type="Number">21.2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1716485.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE290GU-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE290GU-S</Data></Cell>
+    <Cell><Data ss:Type="Number">21.2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1716486.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE290GU-S</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE290GU-W</Data></Cell>
+    <Cell><Data ss:Type="Number">21.2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://yugcontract.ua/shop/807/1716487.html"><Data
+      ss:Type="String">http://yugcontract.ua/shop/807/1716487.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE290GU-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE355E-G</Data></Cell>
+    <Cell><Data ss:Type="Number">20.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">12 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1721708.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE355E-G</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE355E-R</Data></Cell>
+    <Cell><Data ss:Type="Number">20.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">12 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1721709.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE355E-R</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HJE355E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">20.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">12 мес</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://yugcontract.ua/shop/807/1718967.html"><Data
+      ss:Type="String">http://yugcontract.ua/shop/807/1718967.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HJE355E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HM111E-A</Data></Cell>
+    <Cell><Data ss:Type="Number">10.1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1000801.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HM111E-A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HM111E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">10.1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1000326.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Нет</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HM111E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HM111E-S</Data></Cell>
+    <Cell><Data ss:Type="Number">10.1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1715833.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Нет</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HM111E-S</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HS46E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">6.85</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/636348.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HS46E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HS46E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">6.85</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://yugcontract.ua/shop/807/1625944.html"><Data
+      ss:Type="String">http://yugcontract.ua/shop/807/1625944.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HS46E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HT010GU-H</Data></Cell>
+    <Cell><Data ss:Type="Number">5.35</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://yugcontract.ua/shop/807/636346.html"><Data
+      ss:Type="String">http://yugcontract.ua/shop/807/636346.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HT010GU-H</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HT161E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">9.65</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/636347.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HT161E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HT223GU-S</Data></Cell>
+    <Cell><Data ss:Type="Number">13.4</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/598448.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HT223GU-S</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HT225E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">15.15</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/598449.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HT225E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HT260E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">17.350000000000001</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/622580.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HT260E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HT265E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://yugcontract.ua/shop/807/367658.html"><Data
+      ss:Type="String">http://yugcontract.ua/shop/807/367658.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HT265E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HT6E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">4.95</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/636350.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HT6E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HTF295E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">20.9</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/636388.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Нет</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HTF295E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HTF600E-S</Data></Cell>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/668786.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Нет</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HTF600E-S</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HTF890E-S</Data></Cell>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/668787.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Нет</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HTF890E-S</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HV094GU-K</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/604422.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HV094GU-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HV154GU-K</Data></Cell>
+    <Cell><Data ss:Type="Number">4.7</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/604424.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HV154GU-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HX35E-A</Data></Cell>
+    <Cell><Data ss:Type="Number">14.45</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1000327.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HX35E-A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HX35E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">14.45</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1000328.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HX35E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HX35E-V</Data></Cell>
+    <Cell><Data ss:Type="Number">14.45</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1000329.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HX35E-V</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HX35E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">14.45</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1000330.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HX35E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HX40E-A</Data></Cell>
+    <Cell><Data ss:Type="Number">20.149999999999999</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/677890.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HX40E-A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HX40E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">20.149999999999999</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/677891.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HX40E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HX40E-PK</Data></Cell>
+    <Cell><Data ss:Type="Number">20.149999999999999</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/677892.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HX40E-PK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HX40E-PW</Data></Cell>
+    <Cell><Data ss:Type="Number">20.149999999999999</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/687101.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HX40E-PW</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HX40E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">20.149999999999999</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/687092.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HX40E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HX650E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1721646.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HX650E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HXD5E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">36.549999999999997</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1723745.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HXD5E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-HXD5E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">36.549999999999997</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1723746.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-HXD5E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-TCM120E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">10.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/677893.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-TCM120E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-TCM120E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">10.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1719703.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-TCM120E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-TCN120E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">10.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/687105.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-TCN120E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-TCN120E-W</Data></Cell>
+    <Cell><Data ss:Type="Number">10.8</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1719707.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-TCN120E-W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-TCW290E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">28.15</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1725228.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-TCW290E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-WF830E-K</Data></Cell>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1722901.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-WF830E-K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Наушники и гарнитуры</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PANASONIC</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_RP-WF830WE-K</Data></Cell>
+    <Cell><Data ss:Type="Number">111</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1 мес</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">http://yugcontract.ua/shop/807/1725330.html</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ug_</Data></Cell>
+    <Cell ss:Formula="=CONCATENATE(RC[-1],RC[-6])"><Data ss:Type="String">ug_ug_RP-WF830WE-K</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <VerticalResolution>0</VerticalResolution>
+    <NumberofCopies>0</NumberofCopies>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

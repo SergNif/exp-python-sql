@@ -1,0 +1,925 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>usergio</Author>
+  <LastAuthor>Sergio</LastAuthor>
+  <Created>2013-10-26T23:06:05Z</Created>
+  <LastSaved>2016-11-27T21:31:07Z</LastSaved>
+  <Company>Krokoz™</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10584</WindowHeight>
+  <WindowWidth>22020</WindowWidth>
+  <WindowTopX>384</WindowTopX>
+  <WindowTopY>84</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="24" ss:ExpandedRowCount="33" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="126"/>
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="120.60000000000001"/>
+   <Column ss:AutoFitWidth="0" ss:Width="212.4"/>
+   <Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="343.2"/>
+   <Column ss:Index="23" ss:AutoFitWidth="0" ss:Width="115.2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="141.6"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5967303</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AD580KWOHJBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD A10-5800K x4 sFM2 (3.8GHz, 4MB, 100W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">117</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">117</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1719493.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1719493/1409600.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1055.30</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0730143301787</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sFM2; 3.8GHz; 4 cores; 100W; 4MB; Unlocked Multiplier; GPU HD 7660D;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6050175</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AD4000OKHLBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD A4-4000 x2 sFM2 (3.0GHz. 1MB. 65W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">37.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">37.5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1724036.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1724036/1476923.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">338.30</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0730143303415</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5967310</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AD5300OKHJBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD A4-5300 x2 sFM2 (3.4GHz, 1MB, 65W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1719496.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1719496/1409633.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">414.90</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0730143301961</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sFM2; 3.4GHz; 2 cores; 650W; 1MB; GPU HD 7480D;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5967307</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AD540KOKHJBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD A6-5400K x2 sFM2 (3.6GHz, 4MB, 65W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">57.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">57.5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1719495.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1719495/1409622.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">518.70</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0730143302029</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sFM2; 3.6GHz; 2 cores; 65W; 1MB; Unlocked Multiplier; GPU HD 7540D;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5696558</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ADX250OCGQBOX/ADX250OCGMBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD Athlon II X2 250 sAM3 (3,0GHz, 2MB, 65W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">45.7</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">45.7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1631076.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1631076/1150965.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">412.20</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0730143273015</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD Athlon II X2 250; Реал.част. 3.0HHz; Socket AM3; Ядро Regor; Частота шины 2HHz; Кол-во ядер 2; BOX</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5986077</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AD740XOKHJBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD Athlon II X4 740 sFM2 (3.2GHz, 4MB, 65W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">68.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">68.5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1720459.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1720459/1428798.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">617.90</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0730143302869</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5986079</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AD750KWOHJBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD Athlon II X4 750K sFM2 (3.4GHz, 4MB, 100W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1720464.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1720464/1428791.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">658.50</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0730143302845</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6039731</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AD340XOKHJBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD Athlon X2 340 sFM2 (3,2GHz, 1MB, 65W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1722870.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1722870/1461817.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">315.70</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0730143302982</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Реал.част. 3.2GHz; Socket FM2; Ядро Trinity; Кол-во ядер 2; BOX</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6062974</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AD370KOKHLBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD Athlon X2 370K sFM2 (4.0GHz, 1MB, 65W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1725377.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1725377/1494455.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">433.00</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0730143303217</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Реал.част. 4.0GHz; Socket FM2; Ядро Trinity; Кол-во ядер 2; BOX</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6027420</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">FD4130FRGUBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD FX-4130 X4 sAM3+ (3.8GHz, 8MB, 125W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">93.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">93.5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1721558.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1721558/1442118.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">843.40</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/0730143302227</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3.8-3.9Hhz; Socket AM3+; Разблокированный множитель; Кол-во ядер 4; 32нм; BOX</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5908951</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">FD6100WMGUSBX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD FX-6100 X6 sAM3+ (3.3GHz, 14MB, 95W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">110</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">110</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/994563.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/994563/84307.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">992.20</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0730143300926</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3.2-3.9Hhz; Socket AM3+; Частота шины 2000MHz; Разблокированный множитель; Кол-во ядер 6; 32нм; BOX</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6027425</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">FD6300WMHKBOX</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD FX-6300 X6 sAM3+ (3.5GHz, 14MB, 95W) BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1721560.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1721560/1442132.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1010.20</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/0730143302593</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3.5-4.1Hhz; Socket AM3+; Частота шины 2000MHz; Разблокированный множитель; Кол-во ядер 6; 32нм; BOX</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6059979</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">HDX511OCK23GM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD Phenom II X2 511 sAM3 (3,4GHz, 2MB, 65W) Tray</Data></Cell>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">12 мес</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1725130.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1725130/1491036.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&gt;50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">333.70</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2060599790018</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Реал.част. 3.4GHz; Socket AM3; Ядро Regor; Частота шины 2GHz; Кол-во ядер 2; Tray</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5779051</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AMD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">HDZ955FBK4DGM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU AMD Phenom II X4 955 sAM3 (3,2GHz, 8MB, 125W) Tray</Data></Cell>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">12 мес</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1665114.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1665114/1180929.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&gt;50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">649.40</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2057790510019</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Phenom II X4 955; Реал.част. 3.2 ГГц; Сокет AM3; Ядро Deneb; Тепловыделение 125Вт; Частота шины 4000 МГц; Кол-во ядер 4; Tray</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6076741</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637G1620</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Celeron G1620 s1155 2.7GHz 2MB GPU 1050MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">41.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">41.5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1726318.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1726318/1506344.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&gt;50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">374.30</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037048064</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Количество ядер: 2//Bus Speed: 5000//L3 Cache: 2 Mb//Manufacturing Technology: 22 nm//Thermal Design Power: 55 W//Hyper-Threading//Execute Disable Bit//Enhanced Intel Speedstep Technology//Intel Virtualization Technology</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6062978</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637I33240</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i3-3240 s1155 3.4GHz 3MB GPU 1050MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">116</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">116</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1725376.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1725376/1494438.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1046.30</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037040310</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Количество ядер 2//512 Kb L2 Cache//3 Mb L3 Cache//32 nm //GPU 650-1050Mhz</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6076745</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80646I34330</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i3-4330 s1150 3.5GHz 4MB GPU 1150MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">146</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">146</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1726320.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1726320/1512690.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">30-50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1316.90</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037056120</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5964033</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637I53330</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i5-3330 s1155 3.0GHz 6MB GPU 650MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">180</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1718931.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1718931/1403457.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">30-50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1623.60</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037040082</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6076746</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637I53340</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i5-3340 s1155 3.1GHz 6MB GPU 1050MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">183</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">183</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1726321.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1726321/1506361.jpeg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">30-50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1650.70</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037055819</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5960907</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637I53470</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i5-3470 s1155 3.2GHz 7MB GPU 650MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1718201.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1718201/1386639.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">30-50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1704.80</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/5032037043915</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Socket 1155; 3.2-3.6 GHz; 4 ядра; GPU 650-1150 MHz; L3 cache 6MB; 22nm.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5960909</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637I53570</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i5-3570 s1155 3.4GHz 6MB GPU 650MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">204.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">204.5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1718202.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1718202/1386652.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">30-50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1844.60</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037043977</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Socket 1155; 3.4-3.8 GHz; 4 ядра; GPU 650-1150 MHz; L3 cache 6MB; 22nm.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5950191</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637I53570K</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i5-3570K s1155 3.4GHz 7MB GPU 650MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">226</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">226</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1719286.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1719286/1406995.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">30-50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2038.50</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037036399</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Socket 1155; 3.4-3.8 GHz; 4 ядра; GPU 650-1150 MHz; L3 cache 6MB; 22nm.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6076744</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80646I54440</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i5-4440 s1150 3.1GHz 6MB GPU 1100MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">184</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">184</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1726319.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1726319/1506350.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">30-50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1659.70</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/5032037054980</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6051914</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80646I54670K</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i5-4670K s1150 3.4GHz 6MB GPU 1200MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">239</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">239</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1724284.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1724284/1479868.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">30-50</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2155.80</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037051156</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5953734</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637I73770</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i7-3770 s1155 3.4GHz 9MB GPU 650MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">293</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">293</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1717288.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1717288/1368015.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Нет</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2642.90</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/5032037036207</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Socket 1155; 3.4-3.9 GHz; 4 ядра; GPU 650-1150 MHz; L3 cache 8MB; 22nm.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5958955</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637I73770K</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i7-3770K s1155 3.5GHz 9MB GPU 650MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">323</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">323</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1717839.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1717839/1378924.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2913.50</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037036153</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Socket 1155; 3.5-3.9 GHz; 4 ядра; GPU 650-1150 MHz; L3 cache 8MB; 22nm.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5958976</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80619I73820</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i7-3820 s2011 3.6 GHz 11MB BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">289</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">289</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1719287.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1719287/1407010.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Нет</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2606.80</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037034203</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">К-во ядер/потоков: 4/8//L2 Cache: 1 Mb//L3 Cache: 10 Mb//Встроенная графика: Нет//Микроархитектура: Sandy Bridge//Тех. процесс: 32nm//Мощность TDP: 130 W//Охлаждение: Нет</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6051918</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80646I74770</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i7-4770 s1150 3.4GHz 8MB GPU 1200MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">308</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">308</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1724285.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1724285/1479915.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2778.20</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037050555</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6051919</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80646I74770K</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Core i7-4770K s1150 3.5GHz 8MB GPU 1250MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">343</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">343</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1724286.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1724286/1479920.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Нет</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3093.90</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037050371</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6058450</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637G2030</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Pentium G2030 s1155 3.0GHz 3MB GPU 650MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1726335.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1726335/1506410.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">523.20</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/5032037052016</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Количество ядер: 2; L3 Cache: 3 Mb; Manufacturing Technology: 22 nm; Thermal Design Power: 55W</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">5964025</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80637G2120</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Pentium G2120 s1155 3.1GHz 3MB GPU 650MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1718929.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1718929/1403429.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Есть</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">604.30</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037044400</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Количество ядер: 2 /L3 Cache: 3 Mb//Manufacturing Technology: 32 nm//Thermal Design Power: 65 W // VGA 650-1050 MHz</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6076739</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80646G3220</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IT/CPU INTEL Pentium G3220 s1150 3.0GHz 3MB GPU 1100MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">3 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1726317.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1726317/1506333.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">20</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">604.30</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037056427</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Количество ядер: 2 /L3 Cache: 3 Mb//Manufacturing Technology: 22 nm//Thermal Design Power: 54 W // VGA 350-1100 MHz</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2013-10-23 14:37:26</Data></Cell>
+    <Cell><Data ss:Type="Number">6076739</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Процессоры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">КОМПЬЮТЕРНАЯ ТЕХНИКА</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTEL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BX80646G3220-M</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"> INTEL Pentium G3220 s1150 3.0GHz 3MB GPU 1100MHz BOX</Data></Cell>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">4 year</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/shop/1499/1527/1726317.html</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">http://yugcontract.ua/img/products/1726317/1506333.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8542319000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">20</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">604.30</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5032037056427</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Количество ядер: 2 /L3 Cache: 3 Mb//Manufacturing Technology: 22 nm//Thermal Design Power: 54 W // VGA 350-1100 MHz</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>15</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

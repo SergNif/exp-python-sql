@@ -1,0 +1,2275 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Sergio</Author>
+  <LastAuthor>Sergio</LastAuthor>
+  <Created>2015-01-31T15:35:38Z</Created>
+  <LastSaved>2015-01-31T15:50:38Z</LastSaved>
+  <Company>usergio</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10056</WindowHeight>
+  <WindowWidth>22020</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>36</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Гиперссылка">
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s63">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s65" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <NumberFormat ss:Format="@"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#0000FF" ss:Underline="Single"/>
+   <NumberFormat ss:Format="@"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68" ss:Parent="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="22" ss:ExpandedRowCount="97" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="58.2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="67.8"/>
+   <Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="63"/>
+   <Column ss:AutoFitWidth="0" ss:Width="63.599999999999994"/>
+   <Column ss:Index="18" ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:AutoFitWidth="0" ss:Width="122.39999999999999"/>
+   <Column ss:AutoFitWidth="0" ss:Width="126.6"/>
+   <Row ss:AutoFitHeight="0" ss:Height="33.450000000000003">
+    <Cell><Data ss:Type="String">date</Data></Cell>
+    <Cell><Data ss:Type="String">name</Data></Cell>
+    <Cell><Data ss:Type="String">company</Data></Cell>
+    <Cell><Data ss:Type="String">url</Data></Cell>
+    <Cell><Data ss:Type="String">platform</Data></Cell>
+    <Cell><Data ss:Type="String">version</Data></Cell>
+    <Cell><Data ss:Type="String">category</Data></Cell>
+    <Cell><Data ss:Type="String">id</Data></Cell>
+    <Cell><Data ss:Type="String">parentId</Data></Cell>
+    <Cell><Data ss:Type="String">id2</Data></Cell>
+    <Cell><Data ss:Type="String">available</Data></Cell>
+    <Cell><Data ss:Type="String">url3</Data></Cell>
+    <Cell><Data ss:Type="String">price</Data></Cell>
+    <Cell><Data ss:Type="String">currencyId</Data></Cell>
+    <Cell><Data ss:Type="String">categoryId</Data></Cell>
+    <Cell><Data ss:Type="String">picture</Data></Cell>
+    <Cell><Data ss:Type="String">name4</Data></Cell>
+    <Cell><Data ss:Type="String">vendorCode</Data></Cell>
+    <Cell><Data ss:Type="String">item</Data></Cell>
+    <Cell><Data ss:Type="String">param</Data></Cell>
+    <Cell><Data ss:Type="String">name5</Data></Cell>
+    <Cell><Data ss:Type="String">vendor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="40.200000000000003">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s68" ss:HRef="http://www.textilgroup.ru/catalog/27/3427/"><Data
+      ss:Type="String">http://www.textilgroup.ru/catalog/27/3427/</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">85</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RUR</Data></Cell>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s68" ss:HRef="http://www.textilgroup.ru/upload/iblock/277/277bee81fcf86894df402119cd639e60.jpg"><Data
+      ss:Type="String">http://www.textilgroup.ru//upload/iblock/277/277bee81fcf86894df402119cd639e60.jpg</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Подушка &quot;Пьяная зебра&quot; pd062</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pd062</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Код 033</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер: 45х45</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Материал: шёлк (искусственный)</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Наволочки декор</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://www.textilgroup.ru/catalog/27/3428/</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">85</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RUR</Data></Cell>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s68" ss:HRef="http://www.textilgroup.ru/upload/iblock/572/572a5f6b07c73ebcbe9051eaf75add4e.jpg"><Data
+      ss:Type="String">http://www.textilgroup.ru//upload/iblock/572/572a5f6b07c73ebcbe9051eaf75add4e.jpg</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Подушка &quot;Блюмен-шайсе&quot; pd063</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pd063</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Код 033</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер: 45х45</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Материал: шёлк (искусственный)</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Наволочки декор</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://www.textilgroup.ru/catalog/27/3429/</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">85</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RUR</Data></Cell>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s68" ss:HRef="http://www.textilgroup.ru/upload/iblock/6c6/6c62dbffab939dfe1dbf3dde403bf39c.jpg"><Data
+      ss:Type="String">http://www.textilgroup.ru//upload/iblock/6c6/6c62dbffab939dfe1dbf3dde403bf39c.jpg</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Подушка &quot;Мадам Помпадура&quot; pd064</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pd064</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Код 033</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер: 45х45</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Материал: шёлк (искусственный)</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Наволочки декор</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://www.textilgroup.ru/catalog/1/645/</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2100</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RUR</Data></Cell>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell><Data ss:Type="Number">275</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s68" ss:HRef="http://www.textilgroup.ru/upload/iblock/2ab/2ab767ac62150af4877a7ea368871001.jpg"><Data
+      ss:Type="String">http://www.textilgroup.ru//upload/iblock/2ab/2ab767ac62150af4877a7ea368871001.jpg</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Постельное белье для пенсионеров cs396-34</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">cs396-34</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">код 110Пододеяльник (X1) / 200X220</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Простыня (X1) / 220X245</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Наволочка (X2) / 70X70</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Наволочка (X2) / 50X70</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Сатин</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s65" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">645</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4 наволочки</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://www.textilgroup.ru/catalog/27/3515/</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1300</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RUR</Data></Cell>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s68" ss:HRef="http://www.textilgroup.ru/upload/iblock/8dd/8dd869a048ee9ad14aef3528a8fca02c.jpg"><Data
+      ss:Type="String">http://www.textilgroup.ru//upload/iblock/8dd/8dd869a048ee9ad14aef3528a8fca02c.jpg</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Подушка для головы pds010</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pds010</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">код 157Подушка анатомическая Tango</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Memory Foam &quot;пена с памятью&quot;</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">состав - латексная пена</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">размер (x1)/ 40х60х14</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Латекс</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3515</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">50x70</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://www.textilgroup.ru/catalog/1/892/</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2100</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RUR</Data></Cell>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell><Data ss:Type="Number">275</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s68" ss:HRef="http://www.textilgroup.ru/upload/iblock/a1d/a1dafc527d78b6c1e8c56dae7badba3b.jpg"><Data
+      ss:Type="String">http://www.textilgroup.ru//upload/iblock/a1d/a1dafc527d78b6c1e8c56dae7badba3b.jpg</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Постельное белье &quot;Клумба-Мумба&quot; cs288-34</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">cs288-34</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">код 110Пододеяльник (X1) / 200X220</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Простыня (X1) / 230X250</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Наволочка (X2) / 70X70</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Наволочка (X2) / 50X70</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Сатин</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">892</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4 наволочки</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://www.textilgroup.ru/catalog/27/3516/</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1300</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RUR</Data></Cell>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s68" ss:HRef="http://www.textilgroup.ru/upload/iblock/66d/66de4f7e64e08fb46aa5dc81ca657864.jpg"><Data
+      ss:Type="String">http://www.textilgroup.ru//upload/iblock/66d/66de4f7e64e08fb46aa5dc81ca657864.jpg</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Подушка шейно-лечебная &quot;Кирпич&quot; pds011</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pds011</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">код 157</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Подушка анатомическая Tango</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">состав - латексная пена</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">размер (x1)/ 40х60х14</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Латекс</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Материал</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3516</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">50x70</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://www.textilgroup.ru/catalog/27/3518/</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">85</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RUR</Data></Cell>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell><Data ss:Type="Number">290</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s68" ss:HRef="http://www.textilgroup.ru/upload/iblock/6e0/6e04ce37b99909efc1117745bdf5af9c.jpg"><Data
+      ss:Type="String">http://www.textilgroup.ru//upload/iblock/6e0/6e04ce37b99909efc1117745bdf5af9c.jpg</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Подушка &quot;Шерстяное яблоко&quot; pd107</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pd107</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Код 033</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер: 45х45</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Материал: шёлк (искусственный)</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2014-08-25 16:57</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ТАНГО (TANGO) - Текстильгрупп (Textilgroup)</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="http://www.textilgroup.ru/"><Data
+      ss:Type="String">http://www.textilgroup.ru/</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Textilgroup</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">3518</Data></Cell>
+    <Cell><Data ss:Type="Boolean">0</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Наволочки декор</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <LeftColumnVisible>5</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>28</ActiveRow>
+     <ActiveCol>16</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

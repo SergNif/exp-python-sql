@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Sergio</Author>
+  <LastAuthor>Sergio</LastAuthor>
+  <Created>2017-04-15T21:30:36Z</Created>
+  <LastSaved>2017-04-15T21:44:58Z</LastSaved>
+  <Company>usergio</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10584</WindowHeight>
+  <WindowWidth>22020</WindowWidth>
+  <WindowTopX>96</WindowTopX>
+  <WindowTopY>48</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="14" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Column ss:Index="3" ss:Width="48.6"/>
+   <Column ss:Index="6" ss:Width="54"/>
+   <Column ss:Width="48.6" ss:Span="2"/>
+   <Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="87"/>
+   <Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="52.8"/>
+   <Column ss:AutoFitWidth="0" ss:Width="77.399999999999991"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Категории</Data></Cell>
+    <Cell><Data ss:Type="String">Подкатегории</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">NAME3</Data></Cell>
+    <Cell><Data ss:Type="String">BRAND</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">PRICE2</Data></Cell>
+    <Cell><Data ss:Type="String">RECPRICE</Data></Cell>
+    <Cell><Data ss:Type="String">REST</Data></Cell>
+    <Cell><Data ss:Type="String">IMAGE</Data></Cell>
+    <Cell><Data ss:Type="String">Цена</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">Название Опции</Data></Cell>
+    <Cell><Data ss:Type="String">Опции</Data></Cell>
+    <Cell><Data ss:Type="String">Количество опций</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">6359511</Data></Cell>
+    <Cell><Data ss:Type="String">Детская коляска для новорожденных Peg-Perego Martinelli -  blu note</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">105924</Data></Cell>
+    <Cell><Data ss:Type="Number">37246</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cat2.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">большой</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">blu note</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595101</Data></Cell>
+    <Cell><Data ss:Type="String">Детская коляска для новорожденных Peg-Perego Culla auto (шасси Velo) - latte</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">102350</Data></Cell>
+    <Cell><Data ss:Type="Number">29892</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cat3.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">110</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">средний</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">latte</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595102</Data></Cell>
+    <Cell><Data ss:Type="String">Детская коляска для новорожденных Peg-Perego Culla auto (шасси Velo) - crystal</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">108057877</Data></Cell>
+    <Cell><Data ss:Type="Number">30609</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cat4.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">маленький</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">crystal</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595103</Data></Cell>
+    <Cell><Data ss:Type="String">Детская коляска для новорожденных Peg-Perego Culla auto (шасси Velo) - gold</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">108057878</Data></Cell>
+    <Cell><Data ss:Type="Number">36588</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cat5.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">небольшой</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">gold</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595131</Data></Cell>
+    <Cell><Data ss:Type="String">Детская коляска для новорожденных Peg-Perego Culla Chrome - latte</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">102970</Data></Cell>
+    <Cell><Data ss:Type="Number">31327</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">dog1.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">140</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">Немаленький</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">latte</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595132</Data></Cell>
+    <Cell><Data ss:Type="String">Детская коляска для новорожденных Peg-Perego Culla Chrome - gold</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">108057893</Data></Cell>
+    <Cell><Data ss:Type="Number">38381</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">dog2.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">так-сяк размер</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">gold</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595133</Data></Cell>
+    <Cell><Data ss:Type="String">Детская коляска для новорожденных Peg-Perego Culla Chrome - cristal</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">108057895</Data></Cell>
+    <Cell><Data ss:Type="Number">32403</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">dog3.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">160</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">неизвестный</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">cristal</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595141</Data></Cell>
+    <Cell><Data ss:Type="String">Люлька для новорожденных Peg-Perego Navetta XL - Martinelli blu note</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">109328</Data></Cell>
+    <Cell><Data ss:Type="Number">22060</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">dog4.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">170</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">мало не покажется</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">Martinelli blu note</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595142</Data></Cell>
+    <Cell><Data ss:Type="String">Люлька для новорожденных Peg-Perego Navetta XL - Martinelli caramel</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">109329</Data></Cell>
+    <Cell><Data ss:Type="Number">22060</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">dog5.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">для карликов</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">Martinelli caramel</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595143</Data></Cell>
+    <Cell><Data ss:Type="String">Люлька для новорожденных Peg-Perego Navetta XL - Mod Beige</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">108069176</Data></Cell>
+    <Cell><Data ss:Type="Number">12255</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">dog6.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">190</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">для толстых</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">Mod Beige</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595144</Data></Cell>
+    <Cell><Data ss:Type="String">Люлька для новорожденных Peg-Perego Navetta XL - Mod Black</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">108069177</Data></Cell>
+    <Cell><Data ss:Type="Number">12255</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">dress1.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">для худых</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">Mod Black</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Коляски</Data></Cell>
+    <Cell><Data ss:Type="String">Коляски для новорожденных</Data></Cell>
+    <Cell><Data ss:Type="Number">63595145</Data></Cell>
+    <Cell><Data ss:Type="String">Люлька для новорожденных Peg-Perego Navetta XL - Mod Navy</Data></Cell>
+    <Cell><Data ss:Type="String">Peg perego</Data></Cell>
+    <Cell><Data ss:Type="Number">108069178</Data></Cell>
+    <Cell><Data ss:Type="Number">12255</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">dress2.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">210</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Размер</Data></Cell>
+    <Cell><Data ss:Type="String">узкий</Data></Cell>
+    <Cell><Data ss:Type="String">Цвет</Data></Cell>
+    <Cell><Data ss:Type="String">Mod Navy</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">end</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s62"><Data ss:Type="Number">111</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>16</ActiveRow>
+     <ActiveCol>10</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
